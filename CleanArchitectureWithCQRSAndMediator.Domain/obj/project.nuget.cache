@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pn0DqMkf1Qzar0MYf3zzh0pEswIzaArIR988ktHrKAtPVY6bNAJ2OQ9TkPuly3wI36ZReQiu7YTpr7rOCG0GwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FB\\Desktop\\UmbracoLearning\\CleanArchitectureWithCQRSAndMediator.API\\CleanArchitectureWithCQRSAndMediator.Domain\\CleanArchitectureWithCQRSAndMediator.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FB\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\FB\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\FB\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
